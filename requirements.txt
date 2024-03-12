@@ -1,0 +1,13 @@
+pandas
+seaborn
+matplotlib
+plotly
+scikit_learn
+pingouin
+researchpy
+catboost
+numpy 
+xgboost 
+#optuna
+openpyxl
+tensorflow
